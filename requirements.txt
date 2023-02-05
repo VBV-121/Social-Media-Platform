@@ -8,3 +8,4 @@ pip3 install itsdangerous
 pip3 install email-validator
 pip3 install joblib
 pip3 install nltk
+pip3 install sckikit-learn
